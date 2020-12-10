@@ -1,5 +1,5 @@
 var firebase = require('firebase');
-// 貼上自己的 config 設定
+
 var firebaseConfig = {
     apiKey: "AIzaSyAfRJ0b_ysjs_tUiMj1kl7XpYf7IaXuq6U",
     authDomain: "chat-a713f.firebaseapp.com",
